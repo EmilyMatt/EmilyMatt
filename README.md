@@ -20,7 +20,8 @@ In my spare time I play rugby 7's, and am a musician, I mostly play the bass.
     This project is still in its early stages, but after a short break I am once again actively working on it. \
     For my 1.0 release I intend to have a fully functional Hector SLAM suite, and a few other goodies. \
     Currently, the connecting suite is not yet implemented, but the various algorithms used to construct it are there and ready to go! \
-    You can fully use the `mapping-algorithms` crate itself, even without the `mapping-suites` crate.
+    You can fully use the `mapping-algorithms` crate itself, even without the `mapping-suites` crate. \
+    NOTE: This project is designed from the ground up to work without the standard library! as long as you have a memory allocator, it'll work.
 
 ---
 ### Contact me
