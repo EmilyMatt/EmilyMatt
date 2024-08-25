@@ -6,10 +6,6 @@
 I am mostly interested in robotics and game development, I have always loved software engineering and I love learning new stuff. \
 I am experienced with all of the stages of software development from design, coding, testing, all the way to continous integration and client deployment.
 
-I am currently working in a company called FalkorDB, which develops the titular database,
-that is in fact the [The world's fastest graph database](https://www.falkordb.com/), \
-I recommend you check that out.
-
 In my spare time I play rugby 7's, and am a musician, I mostly play the bass.
 
 ---
